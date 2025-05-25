@@ -23,18 +23,16 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/mahinurrahmanmahin" target="blank">
+  <a href="https://linkedin.com/in/mahinurrahmanmahin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://fb.com/mahinurrahmanmahin" target="blank">
+  <a href="https://fb.com/mahinurrahmanmahin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-    
+  </a>
   <a href="https://www.codechef.com/users/mahinurrahman1" target="_blank">
-  <img align="center" src="https://your-uploaded-image-url.png" alt="CodeChef" height="40" width="40" />
-</a>
-
-
-  <a href="https://codeforces.com/profile/taslima2422" target="blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-codechef-3521515-2944960.png" alt="CodeChef" height="40" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/taslima2422" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
   </a>
 </p>
@@ -46,6 +44,9 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
 </p>
 
